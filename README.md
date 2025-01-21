@@ -2,7 +2,7 @@
 
 🎓 **6th-semester Informatics student** at Tanjungpura University  
 💻 **Back-End Developer** passionate about building secure, robust, and scalable systems  
-🏆 Experienced in **Competitive Programming** and solving real-world problems through technology  
+🏆 Solving real-world problems through technology  
 
 ---
 
