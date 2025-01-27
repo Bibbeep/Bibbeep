@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🌍 Based in **Pontianak, West Borneo, Indonesia**  
-- 🔍 Seeking internship and work opportunities to contribute to **innovative software development solutions**  
+- 🔍 Seeking internship and job opportunities to contribute to **innovative software development solutions**  
 - 💡 Always learning and exploring the latest technologies in Back-End Development  
 
 ---
@@ -26,8 +26,9 @@
 ### **Back-End Technologies**  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />  
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />  
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />  
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />  
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />  
 
 ### **Tools & Platforms**  
