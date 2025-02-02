@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammad Habib Al Farabi!  
 
-🎓 **6th-semester Informatics student** at Tanjungpura University  
+🎓 **3rd-year Informatics student** at Tanjungpura University  
 💻 **Back-End Developer** passionate about building secure, robust, and scalable systems  
 🏆 Solving real-world problems through technology  
 
@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />  
 
 ### **Tools & Platforms**  
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />  
