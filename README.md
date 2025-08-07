@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammad Habib Al Farabi!  
 
-🎓 **3rd-year Informatics student** at Tanjungpura University  
+🎓 **4th-year Informatics student** at Tanjungpura University  
 💻 **Back-End Developer** passionate about building secure, robust, and scalable systems  
 🏆 Solving real-world problems through technology  
 
